@@ -1,0 +1,7 @@
+id = "change-case"
+name = "change-case"
+description = "🦀 Quickly change the case of the current selection"
+version = "0.0.1"
+schema_version = 1
+authors = ["Misha Gezha <mioe.boss@gmail.com>"]
+repository = "https://github.com/mioe/change-case"
